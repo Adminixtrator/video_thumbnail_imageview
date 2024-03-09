@@ -4,13 +4,13 @@ version: 0.0.5
 homepage: https://github.com/TechnoPrashant/video_thumbnail_imageview
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: '>=3.2.2 <4.0.0'
+  flutter: ">=3.19.3"
 
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.4
+  http: ^1.2.1
 
 
 dev_dependencies:
